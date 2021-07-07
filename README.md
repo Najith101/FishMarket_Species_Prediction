@@ -48,5 +48,5 @@ The model was evaluated using models which are as follows:
 The model has been hosted in Heroku. You can use the [URL](https://fish-prediction-ml.herokuapp.com) to test the result.
 
 ## Project status
-The project is completed as all the requirements for this project is COMPLETED. For people who wants to add any new feature or attribute for this project, you may submit a request
+The project is COMPLETED as all the requirements for this project is completed. For people who wants to add any new feature or attribute for this project, you may submit a request
 to this project maintainers.
